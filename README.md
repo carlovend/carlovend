@@ -4,7 +4,7 @@
 
 🔹 I'm a Master's student in Computer Science at the University of Salerno, passionate about **DevOps, Cloud Computing, and AI**.  
 🔹 I love working on **scalable architectures, automation, and cloud-native solutions**.  
-🔹 Currently enhancing my **DevOps skills** through hands-on projects.
+🔹 Currently enhancing my **Cloud & DevOps skills** through hands-on projects.
 
 ---
 
